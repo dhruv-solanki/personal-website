@@ -15,5 +15,5 @@ A very simple My own Personal Website Landing page.
 * Portfolio
 * Contact
 
-### Get your Personal Website done here
+### Visit
 [VAM5](http://www.vam5ltd.ml)
