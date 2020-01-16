@@ -16,4 +16,4 @@ A very simple My own Personal Website Landing page.
 * Contact
 
 ### Get your Personal Website done here
-[VAM5]("http://www.vam5ltd.ml")
+[VAM5](http://www.vam5ltd.ml)
